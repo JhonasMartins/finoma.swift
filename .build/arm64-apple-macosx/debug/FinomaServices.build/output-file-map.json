@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/master.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaServices/BootstrapService.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/BootstrapService.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/BootstrapService.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/BootstrapService~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/BootstrapService.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaServices/BudgetService.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/BudgetService.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/BudgetService.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/BudgetService~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/BudgetService.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaServices/CSVImporter.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/CSVImporter.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/CSVImporter.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/CSVImporter~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/CSVImporter.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaServices/FinomaEnvironment.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/FinomaEnvironment.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/FinomaEnvironment.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/FinomaEnvironment~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/FinomaEnvironment.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaServices/ReportService.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/ReportService.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/ReportService.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/ReportService~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/ReportService.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaServices/TransactionService.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/TransactionService.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/TransactionService.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/TransactionService~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/TransactionService.swiftdeps"
+  }
+}

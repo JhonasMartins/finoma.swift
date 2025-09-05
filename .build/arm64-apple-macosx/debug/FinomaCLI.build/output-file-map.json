@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCLI.build/master.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaCLI/main.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCLI.build/main.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCLI.build/main.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCLI.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCLI.build/main.swiftdeps"
+  }
+}

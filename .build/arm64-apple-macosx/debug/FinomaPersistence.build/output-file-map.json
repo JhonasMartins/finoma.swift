@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/master.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaPersistence/JSONAccountRepository.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONAccountRepository.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONAccountRepository.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONAccountRepository~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONAccountRepository.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaPersistence/JSONBudgetRepository.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONBudgetRepository.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONBudgetRepository.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONBudgetRepository~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONBudgetRepository.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaPersistence/JSONCategoryRepository.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONCategoryRepository.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONCategoryRepository.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONCategoryRepository~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONCategoryRepository.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaPersistence/JSONRecurringRepository.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONRecurringRepository.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONRecurringRepository.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONRecurringRepository~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONRecurringRepository.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaPersistence/JSONRuleRepository.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONRuleRepository.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONRuleRepository.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONRuleRepository~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONRuleRepository.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaPersistence/JSONStore.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONStore.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONStore.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONStore.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaPersistence/JSONTransactionRepository.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONTransactionRepository.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONTransactionRepository.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONTransactionRepository~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/JSONTransactionRepository.swiftdeps"
+  }
+}

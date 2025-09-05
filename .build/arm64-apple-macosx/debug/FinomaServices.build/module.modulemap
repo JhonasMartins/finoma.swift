@@ -1,0 +1,4 @@
+module FinomaServices {
+    header "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaServices.build/FinomaServices-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module FinomaUI {
+    header "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaUI.build/FinomaUI-Swift.h"
+    requires objc
+}

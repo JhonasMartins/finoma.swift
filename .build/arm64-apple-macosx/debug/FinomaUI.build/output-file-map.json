@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaUI.build/master.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaUI/AppViewModel.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaUI.build/AppViewModel.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaUI.build/AppViewModel.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaUI.build/AppViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaUI.build/AppViewModel.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaUI/Views.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaUI.build/Views.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaUI.build/Views.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaUI.build/Views~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaUI.build/Views.swiftdeps"
+  }
+}

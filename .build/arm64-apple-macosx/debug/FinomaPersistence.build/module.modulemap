@@ -1,0 +1,4 @@
+module FinomaPersistence {
+    header "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaPersistence.build/FinomaPersistence-Swift.h"
+    requires objc
+}

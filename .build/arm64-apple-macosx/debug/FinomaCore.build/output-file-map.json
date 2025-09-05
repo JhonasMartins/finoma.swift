@@ -1,0 +1,59 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/master.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaCore/Account.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Account.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Account.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Account~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Account.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaCore/Budget.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Budget.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Budget.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Budget~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Budget.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaCore/Category.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Category.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Category.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Category~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Category.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaCore/Money.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Money.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Money.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Money~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Money.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaCore/Recurring.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Recurring.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Recurring.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Recurring~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Recurring.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaCore/Repositories.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Repositories.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Repositories.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Repositories~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Repositories.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaCore/Rule.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Rule.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Rule.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Rule~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Rule.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaCore/Transaction.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Transaction.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Transaction.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Transaction~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/Transaction.swiftdeps"
+  },
+  "/Users/jhonasleismann/Movies/finoma/Sources/FinomaCore/YearMonth.swift": {
+    "dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/YearMonth.d",
+    "object": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/YearMonth.swift.o",
+    "swiftmodule": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/YearMonth~partial.swiftmodule",
+    "swift-dependencies": "/Users/jhonasleismann/Movies/finoma/.build/arm64-apple-macosx/debug/FinomaCore.build/YearMonth.swiftdeps"
+  }
+}
