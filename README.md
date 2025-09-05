@@ -215,5 +215,6 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 <div align="center">
   <p>Feito com ❤️ e Swift</p>
   <p>⭐ Se este projeto te ajudou, considere dar uma estrela!</p>
+          <p>Codnodo Studio</p>
 </div>
 
